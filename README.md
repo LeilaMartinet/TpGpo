@@ -1,2 +1,1 @@
 # TpGpo
-== Premiere partie
